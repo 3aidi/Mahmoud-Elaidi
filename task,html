@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Personal profile page for Mahmoud Saad Elaidi">
+    <meta name="author" content="Mahmoud Saad Elaidi">
+    <title>Mahmoud Saad Elaidi | CS Student</title>
+    <link rel="icon" type="image/png" href="https://via.placeholder.com/32">
+    <style>
+      abbr { text-decoration: none; }
+    </style>
+  </head>
+
+  <body style="font-family: Arial, sans-serif; background-color: #0d0d1a; color: #e0e0e0; padding: 30px;">
+
+    <div style="text-align: center; background-color: #1a1a2e; padding: 40px;">
+
+      <h1 style="color: #ffffff;" title="My full name">Mahmoud Saad Elaidi</h1>
+
+      <h2 style="color: #00d4ff;">
+        Computer Science Student |
+        <abbr title="King Salman International University">KSIU</abbr>
+        | El Tor, Egypt
+      </h2>
+
+    </div>
+
+    <hr>
+
+    <p style="text-align: center;">
+      <a href="#about"   style="color: #00d4ff;" title="About Me section">About Me</a>
+      &nbsp;|&nbsp;
+      <a href="#quotes"  style="color: #00d4ff;" title="Quotes section">Quotes</a>
+      &nbsp;|&nbsp;
+      <a href="#contact" style="color: #00d4ff;" title="Contact section">Contact</a>
+    </p>
+
+    <hr>
+
+    <div id="about" style="background-color: #1a1a2e; padding: 30px; margin-bottom: 20px;">
+
+      <h3 style="color: #00d4ff;">About Me</h3>
+
+      <p>
+        Hey there! I'm <strong>Mahmoud Saad Elaidi</strong>, a passionate
+        <abbr title="Computer Science">CS</abbr> student at
+        <abbr title="King Salman International University">KSIU</abbr>,
+        based in <strong>El Tor, South Sinai, Egypt</strong>.
+        I'm on a mission to turn curiosity into code — one project at a time.
+      </p>
+
+      <p>
+        I'm currently learning software development, algorithms, and web technologies.
+        This page was built using pure
+        <abbr title="HyperText Markup Language">HTML</abbr>
+        as part of my learning journey!<br>
+        Every challenge is a chance to grow.
+      </p>
+
+      <h4 style="color: #00d4ff;">My Goals</h4>
+
+      <p>
+        I aim to become a skilled software engineer who builds meaningful products.
+        I'm sharpening my skills in
+        <abbr title="HyperText Markup Language">HTML</abbr>,
+        <abbr title="Cascading Style Sheets">CSS</abbr>,
+        and Python — while sharing my learning on YouTube to help others.
+      </p>
+
+    </div>
+
+    <div id="quotes" style="background-color: #1a1a2e; padding: 30px; margin-bottom: 20px;">
+
+      <h3 style="color: #00d4ff; text-align: center;">Words I Live By</h3>
+
+      <p>
+        A quote that sits on my desk:
+        <q cite="https://example.com/quotes">First, solve the problem. Then, write the code.</q>
+        — <cite>John Johnson</cite>
+      </p>
+
+      <blockquote cite="https://example.com/cs-quotes" title="A quote by Steve Jobs" style="border-left: 4px solid #00d4ff; padding: 10px 20px; font-style: italic;">
+        "Everyone in this country should learn to program a computer, because it teaches you how to think."
+        <br><br>
+        — <cite>Steve Jobs</cite>
+      </blockquote>
+
+      <p>
+        And one I remind myself before every exam:
+        <q>The expert in anything was once a beginner.</q>
+      </p>
+
+    </div>
+
+    <div id="contact" style="background-color: #1a1a2e; padding: 30px; margin-bottom: 20px;">
+
+      <h3 style="color: #00d4ff; text-align: center;">Get In Touch</h3>
+
+      <p style="text-align: center;">
+        I am always open to connecting with fellow students and developers.
+        Reach me through any of the channels below!
+      </p>
+
+      <address style="font-style: normal; line-height: 2.2;">
+
+        <strong>Mahmoud Saad Elaidi</strong><br>
+        El Tor, South Sinai, <abbr title="Arab Republic of Egypt">Egypt</abbr><br>
+        <abbr title="Computer Science">CS</abbr> Student —
+        <abbr title="King Salman International University">KSIU</abbr><br>
+
+        Email:
+        <a href="mailto:mahmoud224101559@ksiu.edu.eg" style="color: #00d4ff;" title="Send me an email">
+          mahmoud224101559@ksiu.edu.eg
+        </a><br>
+
+        GitHub:
+        <a href="https://github.com/3aidi" target="_blank" style="color: #00d4ff;" title="My GitHub profile">
+          github.com/3aidi
+        </a><br>
+
+        YouTube:
+        <a href="https://www.youtube.com/@Mahmoud_Elaidi" target="_blank" style="color: #00d4ff;" title="My YouTube channel">
+          youtube.com/@Mahmoud_Elaidi
+        </a><br>
+
+        LinkedIn:
+        <a href="https://www.linkedin.com/in/mahmoud-saad-elaidi/" target="_blank" style="color: #00d4ff;" title="My LinkedIn profile">
+          linkedin.com/in/mahmoud-saad-elaidi
+        </a>
+
+      </address>
+
+    </div>
+
+    <hr>
+
+  </body>
+
+</html>
